@@ -6,3 +6,4 @@ Change added in Master branch.
 
 A new Change added in Master branch.
 
+A stashing edit!
